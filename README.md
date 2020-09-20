@@ -1,5 +1,7 @@
 # Heart Disease prediction using Pytorch.
 
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg) ![Pytorch](https://img.shields.io/badge/Library-Pytorch-yellow.svg)
+
 ![image](https://miro.medium.com/max/844/1*6nE1MADqsFutGS-MZeYXig.jpeg)
 
 ## Introduction
