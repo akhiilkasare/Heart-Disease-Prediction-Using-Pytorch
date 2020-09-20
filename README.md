@@ -1,6 +1,6 @@
 # Heart Disease prediction using Pytorch.
 
-![](image1.jpg)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40saipratyushaganti%2Fheart-disease-prediction-system-using-pytorch-b188db8b03ad&psig=AOvVaw0TJobybMyOHQvRgKiAY33x&ust=1600707053114000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjIg9SY-OsCFQAAAAAdAAAAABAD)
 
 ## Introduction
 
